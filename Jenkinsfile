@@ -4,7 +4,7 @@ pipeline {
     stages {
         stage('Build') {
             steps {
-                echo 'Building..1st.master branch'
+                echo 'Building..1st.master branch solve'
                 // Add build steps like: sh 'make build'
             }
         }
